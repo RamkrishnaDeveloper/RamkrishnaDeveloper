@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Bot/Game developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itz-princeyt336&label=Profile%20views&color=0e75b6&style=flat" alt="itz-princeyt336" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RamkrishnaDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="RamkrishnaDeveloper" /> </p>
 
 - 🔭 I’m currently back to **Coding**
 
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itz-princeyt336&show_icons=true&locale=en&layout=compact" alt="itz-princeyt336" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-princeyt336&show_icons=true&locale=en" alt="itz-princeyt336" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RamkrishnaDeveloper&show_icons=true&locale=en" alt="RamkrishnaDeveloper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-princeyt336&" alt="itz-princeyt336" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RamkrishnaDeveloper&" alt="RamkrishnaDeveloper" /></p>
