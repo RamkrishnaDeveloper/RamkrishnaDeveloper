@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishnadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishnadeveloper" /> </p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkrishnadeveloper" alt="ramkrishnadeveloper" /></a> </p>
+
 
 
 - 🔭 I’m currently working on [Zeon Developement](https://discord.gg/zeondevs)
